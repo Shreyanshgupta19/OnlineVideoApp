@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993857430942",
+    "project_id": "onlinevideoapp-4a53c",
+    "storage_bucket": "onlinevideoapp-4a53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993857430942:android:e874e9887d04336eb9a28f",
+        "android_client_info": {
+          "package_name": "com.example.online_video_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnFkM7aLY4tRjTNfk39oTwCHraCrgrSUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
